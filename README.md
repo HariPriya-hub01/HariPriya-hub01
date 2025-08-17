@@ -9,6 +9,8 @@ I enjoy taking ideas from concept to reality, whether it’s a simple project fo
 
 Thanks for stopping by! Stick around for code, experiments and a little bit of curiosity-fueled chaos! 😄
 
+👀 [Take a look at my portfolio here](https://hari-priya-portfolio.vercel.app/)!
+
 ---
 
 ## 🚀 What I'm Currently Up To
